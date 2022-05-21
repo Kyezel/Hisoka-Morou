@@ -1,7 +1,7 @@
 /**
    * Create By Kyexi.
    * Contact Me on wa.me/6283862627180
-   * Follow https://github.com/DikaArdnt
+   * Follow https://github.com/Kyezel
 */
 
 const fs = require('fs')
